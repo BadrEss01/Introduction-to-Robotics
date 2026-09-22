@@ -1,4 +1,8 @@
-# Introduction to robotics — lab documents
+# Introduction to robotics
+
+> **Coursework** · Lab document archive
+>
+> [Selected projects](https://github.com/BadrEss01/BadrEss#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
 
 Historical robotics coursework documents maintained by Badr Essefiany.
 
